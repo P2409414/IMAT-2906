@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['add_823',['Add',['../struct_t_m_pro_1_1_t_m_p___rich_text_tag_stack.html#a24bca18114306084b892a8e342570c0b',1,'TMPro::TMP_RichTextTagStack']]],
+  ['addcolorgradientpreset_824',['AddColorGradientPreset',['../class_t_m_pro_1_1_material_reference_manager.html#aaff4d63fa8a94aa0b4badb98076ce0b3',1,'TMPro::MaterialReferenceManager']]],
+  ['addfloattochararray_825',['AddFloatToCharArray',['../class_t_m_pro_1_1_t_m_p___text.html#a65b8516b866073100656224880c8cfe7',1,'TMPro::TMP_Text']]],
+  ['addfontasset_826',['AddFontAsset',['../class_t_m_pro_1_1_material_reference_manager.html#aef7197e07d5b322b6ed3d8baf4d8c0cf',1,'TMPro::MaterialReferenceManager']]],
+  ['addfontmaterial_827',['AddFontMaterial',['../class_t_m_pro_1_1_material_reference_manager.html#ad32f019ea73193084d8e7f90f387b679',1,'TMPro::MaterialReferenceManager']]],
+  ['addglyphpairadjustmentrecord_828',['AddGlyphPairAdjustmentRecord',['../class_t_m_pro_1_1_kerning_table.html#af132cb43291bb90871859b4b9d273d53',1,'TMPro::KerningTable']]],
+  ['addinttochararray_829',['AddIntToCharArray',['../class_t_m_pro_1_1_t_m_p___text.html#a85eade9efd13e66c1e38f37dd6695439',1,'TMPro::TMP_Text']]],
+  ['addkerningpair_830',['AddKerningPair',['../class_t_m_pro_1_1_kerning_table.html#ab052c4492d7d9ecf26f48d96d55068e2',1,'TMPro::KerningTable']]],
+  ['addmaterialreference_831',['AddMaterialReference',['../struct_t_m_pro_1_1_material_reference.html#a671a784525ebc4709414c442d7af7187',1,'TMPro.MaterialReference.AddMaterialReference(Material material, TMP_FontAsset fontAsset, MaterialReference[] materialReferences, Dictionary&lt; int, int &gt; materialReferenceIndexLookup)'],['../struct_t_m_pro_1_1_material_reference.html#ad911a49231e643344d43a137a8b72baf',1,'TMPro.MaterialReference.AddMaterialReference(Material material, TMP_SpriteAsset spriteAsset, MaterialReference[] materialReferences, Dictionary&lt; int, int &gt; materialReferenceIndexLookup)']]],
+  ['addoptions_832',['AddOptions',['../class_t_m_pro_1_1_t_m_p___dropdown.html#aca7bde337dd9fb565f2a8ed96bf4bb25',1,'TMPro.TMP_Dropdown.AddOptions(List&lt; OptionData &gt; options)'],['../class_t_m_pro_1_1_t_m_p___dropdown.html#afedde3cc300c5e96287f0e9d8731e34d',1,'TMPro.TMP_Dropdown.AddOptions(List&lt; string &gt; options)'],['../class_t_m_pro_1_1_t_m_p___dropdown.html#a369717c09b1e1fa94f5e7dfa19ae9c1f',1,'TMPro.TMP_Dropdown.AddOptions(List&lt; Sprite &gt; options)']]],
+  ['addspriteasset_833',['AddSpriteAsset',['../class_t_m_pro_1_1_material_reference_manager.html#a3810186f9c82e44d3ca54ed456f6d8bd',1,'TMPro.MaterialReferenceManager.AddSpriteAsset(TMP_SpriteAsset spriteAsset)'],['../class_t_m_pro_1_1_material_reference_manager.html#a6ec369694dfd5ba0c8dbebcbc7bd1f97',1,'TMPro.MaterialReferenceManager.AddSpriteAsset(int hashCode, TMP_SpriteAsset spriteAsset)']]],
+  ['addsubtextobject_834',['AddSubTextObject',['../class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#a72235ccd83b46453ebb152ff645602be',1,'TMPro::TMP_SubMeshUI']]],
+  ['adjustlineoffset_835',['AdjustLineOffset',['../class_t_m_pro_1_1_t_m_p___text.html#af8260f3fbff0d9e0354ce053de51f085',1,'TMPro.TMP_Text.AdjustLineOffset()'],['../class_t_m_pro_1_1_text_mesh_pro.html#a20da6ec1df3a80e5bdb11078b0175392',1,'TMPro.TextMeshPro.AdjustLineOffset()'],['../class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a1dbe4fb436b075d435051a851b365e05',1,'TMPro.TextMeshProUGUI.AdjustLineOffset()']]],
+  ['append_836',['Append',['../class_t_m_pro_1_1_t_m_p___input_field.html#a3d675445c819058d84bfa8b8889fb119',1,'TMPro::TMP_InputField']]]
+];
