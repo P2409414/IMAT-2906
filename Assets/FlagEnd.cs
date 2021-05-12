@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/**
+ * ... This script is used to set the game to game over once the flag is touched ...
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,7 +23,7 @@ public class FlagEnd : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        CameraEnd.SetActive(true);
+        CameraEnd.SetActive(true); //!< Changes active camera and destroys player
         Destroy(other.gameObject);
     }
 

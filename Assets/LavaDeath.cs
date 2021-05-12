@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/**
+ * ... This script is used to respawn the player and reduce the number of lives by one when lava is touched. ...
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -22,7 +26,7 @@ public class LavaDeath : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)  //!< On the player touching the lava the repawn coroutine is started or if player is out of lives player is destroyed and game is ended.
     {
         if (LivesValue != 1)
         {
@@ -35,7 +39,7 @@ public class LavaDeath : MonoBehaviour
         }
     }
 
-    IEnumerator Respawn(GameObject rb)
+    IEnumerator Respawn(GameObject rb) //!< IEnumerator used to allow for a timer to be used for fading the screen and moving the character as well as freezing until screen returns.
     {
         rb.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
         for (int i = 0; i < 10; i++)
